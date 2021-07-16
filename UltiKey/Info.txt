@@ -1,0 +1,173 @@
+LIGHT: 257abd	| 37, 122, 189
+MID: 0d3f67	| 13, 63, 103
+DARK: 091f2f	| 9, 31, 47
+
+
+
+Size: 800 450
+
+
+aaaaxx-AAXXX-000A00
+aaaaxxAAXXX000A00
+
+X		Returns a random letter or number with uppercase letter
+x		Returns a random letter or number with lowercase letter
+A		Returns a random uppercase letter
+a		Returns a random lowercase letter
+0		Returns a random number between zero and nine
+
+
+19 checkboxen maken!
+
+Presets:
+Malwarebytes	=	AAAAA:AAAA-AAAA-AAAA-AAAA
+Uplay			=	AAAA-AAAA-AAAA-AAAA
+Discord Nitro	=	XXXXXXXXXXXXXXXXXXX
+Geforce			=	XXXXXXXXXXXXXXXXXXXXXXXX
+Amazon			=	XXXX-XXXXXX-XXXX
+Itunes			=	XXXX-XXXX-XXXX-XXXX
+Microsoft		=	XXXXX-XXXXX-XXXXX-XXXXX-XXXXX
+Netflix			=	XXXXXXXXXXX
+Playstation		=	XXXX-XXXX-XXXX
+Steam			=	XXXX-XXXX-XXXX
+Xbox			=	XXXXX-XXXXX-XXXXX-XXXXX-XXXXX
+Blizzard		=	XXXXXXXXXXXXXXXXXXXX
+Minecraft		=	XXXX-XXXX-XXXX
+Paysafe			=	0000-0000-0000-0000
+Fortnite		=	XXXXX-XXXX-XXXX
+Roblox			=	000 000 0000
+Nintendo		=	XXXXXXXXXXXXXXXX
+Google			=	XXXX XXXX XXXX XXXX
+
+
+
+        private void UplayBtn_Click(object sender, EventArgs e)
+        {
+
+            Format.Clear();
+            Format.Text = "AAAA-AAAA-AAAA-AAAA";
+
+        }
+
+        private void NitroBtn_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void GeforceBtn_Click(object sender, EventArgs e)
+        {
+
+
+        }
+
+        private void AmazonBtn_Click(object sender, EventArgs e)
+        {
+
+            Format.Clear();
+            Format.Text = "XXXX-XXXXXX-XXXX";
+
+        }
+
+        private void ItunesBtn_Click(object sender, EventArgs e)
+        {
+
+            Format.Clear();
+            Format.Text = "XXXX-XXXX-XXXX-XXXX";
+
+        }
+
+        private void MicrosoftBtn_Click(object sender, EventArgs e)
+        {
+
+            Format.Clear();
+            Format.Text = "XXXXX-XXXXX-XXXXX-XXXXX-XXXXX";
+
+        }
+
+        private void NetflixBtn_Click(object sender, EventArgs e)
+        {
+
+            Format.Clear();
+            Format.Text = "XXXXXXXXXXX";
+
+        }
+
+        private void PlaystationBtn_Click(object sender, EventArgs e)
+        {
+
+            Format.Clear();
+            Format.Text = "XXXX-XXXX-XXXX";
+
+        }
+
+        private void SteamBtn_Click(object sender, EventArgs e)
+        {
+
+            Format.Clear();
+            Format.Text = "XXXX-XXXX-XXXX";
+
+        }
+
+        private void XboxBtn_Click(object sender, EventArgs e)
+        {
+
+            Format.Clear();
+            Format.Text = "XXXXX-XXXXX-XXXXX-XXXXX-XXXXX";
+
+        }
+
+        private void BlizzardBtn_Click(object sender, EventArgs e)
+        {
+
+            Format.Clear();
+            Format.Text = "XXXXXXXXXXXXXXXXXXXX";
+
+        }
+
+        private void MinecraftBtn_Click(object sender, EventArgs e)
+        {
+
+            Format.Clear();
+            Format.Text = "XXXX-XXXX-XXXX";
+
+        }
+
+        private void PaysafeBtn_Click(object sender, EventArgs e)
+        {
+
+            Format.Clear();
+            Format.Text = "0000-0000-0000-0000";
+
+        }
+
+        private void FortniteBtn_Click(object sender, EventArgs e)
+        {
+
+            Format.Clear();
+            Format.Text = "XXXXX-XXXX-XXXX";
+
+        }
+
+        private void RobloxBtn_Click(object sender, EventArgs e)
+        {
+
+            Format.Clear();
+            Format.Text = "000 000 0000";
+
+        }
+
+        private void NintendoBtn_Click(object sender, EventArgs e)
+        {
+
+            Format.Clear();
+            Format.Text = "XXXXXXXXXXXXXXXX";
+
+        }
+
+        private void GoogleBtn_Click(object sender, EventArgs e)
+        {
+
+            Format.Clear();
+            Format.Text = "XXXX XXXX XXXX XXXX";
+
+        }
